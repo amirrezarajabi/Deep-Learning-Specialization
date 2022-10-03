@@ -4,7 +4,7 @@ Programming assignments from all courses in the Coursera Deep Learning specializ
 
 Instructor: Andrew Ng
 
-*   ##  [Course 1: Neural Networks and Deep Learning])(./C1-Neural-Networks-and-Deep-Learning/)
+*   ##  [Course 1: Neural Networks and Deep Learning](./C1-Neural-Networks-and-Deep-Learning/)
     *   ### [week2](./C1-Neural-Networks-and-Deep-Learning/Week2/)
     *   ### [week3](./C1-Neural-Networks-and-Deep-Learning/Week3/)
     *   ### [week4](./C1-Neural-Networks-and-Deep-Learning/Week4/)
