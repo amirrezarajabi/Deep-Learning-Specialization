@@ -18,3 +18,10 @@ Instructor: Andrew Ng
 
 *   ##  [Structuring Machine Learning Projects](./C3-Structuring-Machine-Learning-Projects/)
     *   ### [certificate](./C3-Structuring-Machine-Learning-Projects/Certificate.pdf)
+
+*   ##  [Convolutional Neural Networks](./C4-Convolutional-Neural-Networks/)
+    *   ### [week1](./C4-Convolutional-Neural-Networks/Week1/)
+    *   ### [week2](./C4-Convolutional-Neural-Networks/Week2/)
+    *   ### [week3](./C4-Convolutional-Neural-Networks/Week3/)
+    *   ### [week4](./C4-Convolutional-Neural-Networks/Week4/)
+    *   ### [certificate](./C4-Convolutional-Neural-Networks/Certificate.pdf)
