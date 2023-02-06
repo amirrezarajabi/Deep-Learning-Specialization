@@ -31,4 +31,4 @@ Instructor: Andrew Ng
     *   ### [week2](./C5-Recurrent-Neural-Networks/Week2/)
     *   ### [week3](./C5-Recurrent-Neural-Networks/Week3/)
     *   ### [week4](./C5-Recurrent-Neural-Networks/Week4/)
-    *   ### [certificate](./C5-Recurrent-Neural-Networks/Certificate.pdf)
+    *   ### certificate (I don't have it yet because of passport problem :))
